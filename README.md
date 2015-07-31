@@ -17,4 +17,4 @@ Step 4. Enter whether your server is local or a remote server. This will effect 
           
 
 Step 5. Display ports while scanning each one? Enter 'yes' or 'no' 
-          r 
+   
